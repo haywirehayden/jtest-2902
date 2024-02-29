@@ -1,1 +1,1 @@
-echo "It on went and worked!"
+echo "It only went and worked!"
