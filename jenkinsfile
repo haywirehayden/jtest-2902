@@ -14,7 +14,7 @@ pipeline{
         }
         stage("output result to console"){
             steps{
-                sh output.sh
+                echo "It only went and worked!"
             }
         }
     }
