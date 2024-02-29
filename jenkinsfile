@@ -1,6 +1,6 @@
 pipeline{
-    agent {
-        label: "jenkinsnew"
+    agent{
+        label:"jenkinsnew"
         }
     stages{
         stage("make directory"){
